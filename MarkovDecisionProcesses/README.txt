@@ -1,6 +1,5 @@
 # READ ME TXT
 
-## This is a description of how to run the code I implemented for CS7641 Assignment 2.
 
 There are a total of 2 Jupyter notebooks, one notebook for each MDP Problem (Frozen lake and Forest Management) I resolved.
 
