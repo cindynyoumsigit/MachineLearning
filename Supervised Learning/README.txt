@@ -1,7 +1,5 @@
 # READ ME TXT
 
-## This is a description of how to run the code I implemented for Assignment 1.
-
 There are a total of 5 Jupyter notebooks, one notebook for each model I implemented.
 
 File 1: DecisionTree.ipynb
