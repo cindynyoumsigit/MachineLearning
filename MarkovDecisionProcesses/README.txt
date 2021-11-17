@@ -1,6 +1,5 @@
 # READ ME TXT
 
-
 There are a total of 2 Jupyter notebooks, one notebook for each MDP Problem (Frozen lake and Forest Management) I resolved.
 
 File 1: FrozenLake.ipynb
